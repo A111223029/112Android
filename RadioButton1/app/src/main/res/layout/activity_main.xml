@@ -55,19 +55,19 @@
             android:id="@+id/rdbAdult"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="全票" />
+            android:text="@string/regularticket" />
 
         <RadioButton
             android:id="@+id/rdbChild"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="兒童票" />
+            android:text="@string/childticket" />
 
         <RadioButton
             android:id="@+id/rdbStudent"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="學生票" />
+            android:text="@string/studentticket" />
     </RadioGroup>
 
     <Button
