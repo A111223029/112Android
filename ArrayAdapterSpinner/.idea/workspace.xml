@@ -17,169 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd786559-6a0e-4d5d-9265-ba30f2221558" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/androidTest/java/com/example/listviewdemo/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/java/com/example/listviewdemo/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/app/src/test/java/com/example/listviewdemo/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListViewDemo/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/androidTest/java/com/example/spinneradapter/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/java/com/example/spinneradapter/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/app/src/test/java/com/example/spinneradapter/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerAdapter/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/androidTest/java/com/example/spinnerdemo/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/java/com/example/spinnerdemo/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/app/src/test/java/com/example/spinnerdemo/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/androidTest/java/com/example/spinnerdemo2/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/java/com/example/spinnerdemo2/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/app/src/test/java/com/example/spinnerdemo2/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpinnerDemo2/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayAdapterSpinner_/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayAdapterSpinner_/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="ArrayAdapterSpinner.app.main" />
