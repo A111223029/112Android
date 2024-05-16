@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 
@@ -35,17 +37,37 @@ public class MainActivity extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 // Determine the temperature set based on the selected drink
                 String[] tempSet;
-                if (position < 3) { // If lemonade
+                if (position == 3) { // If lemonade
                     tempSet = tempSet2;
                 } else {
                     tempSet = tempSet1;
                 }
-                // Here you can do something with tempSet if needed
+                // Create ArrayAdapter for temperature spinner
+                ArrayAdapter<String> tempAd =
+                        new ArrayAdapter<>(MainActivity.this,
+                        android.R.layout.simple_spinner_dropdown_item,
+                        tempSet);
+
+                // Set the dropdown view resource
+                tempAd.setDropDownViewResource(
+                        android.R.layout.simple_list_item_single_choice);
+                temp.setAdapter(tempAd);
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
                 // Handle no selection if needed
+            }
+        });
+
+        Button order = (Button) findViewById(R.id.btnOrder); // Find the order button
+        order.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                String msg = drink.getSelectedItem().toString()+", "+
+                        temp.getSelectedItem().toString();
+                txv.setText(msg);
             }
         });
     }
